@@ -1,1 +1,1 @@
-this is my git repository
+this is my git repository for all my projects and work
