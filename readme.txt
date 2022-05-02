@@ -1,1 +1,1 @@
-this is my git repository for all my projects and work
+This is my git repository for all my projects and work. Here, I will store all my work.
